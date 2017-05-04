@@ -205,7 +205,7 @@ Installing Python 3.6 under Ubuntu
 
 Many Ubuntu distributions have an incompatible Python version baked in.
 Because of this, it is easier to install Python 3.6 rather than attempting
-to update Python 3.5.2 to 3.5.3.  See `contrib/python3.6/python-3.6.sh`_.
+to update Python 3.5.2 to 3.5.3.  See `python3.6/python-3.6.sh`_.
 
 
 Installing on Raspberry Pi 3
